@@ -1,9 +1,22 @@
-# Almacen de Mercancia
-## Inventario
+# DESARROLLADOR WEB
 
-1. Nevera 5
-2. Estufas 2
-3. Televisores 5
+## Herramientas principales
 
-* Nosotros 
->>>>>>>>Bueno la verdaderas partes para poder ir mas adelante
+1. Sistemas
+2. Html5
+3. Css
+4. Markdown
+
+## Lenguajes de programacion
+
+1. Javascript
+2. Python
+
+``` Python
+saludar = 'Hola como estas'
+nombre = 'Pedro'
+print(saludar)
+print(nombre)
+```
+
+__Esto de aqui arriba es un sencillo ejemplo de python__
