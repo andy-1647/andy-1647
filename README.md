@@ -21,5 +21,6 @@ print(nombre)
 
 __Esto de aqui arriba es un sencillo ejemplo de python__
 
-### Via de contacto
-![Static Badge](https://img.shields.io/badge/andy-1647)
+### Mi actividad
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/andy-1647/miPrimerTrabajo)
+
