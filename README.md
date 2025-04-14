@@ -6,6 +6,8 @@
 2. Html5
 3. Css
 4. Markdown
+5. Git
+6. GitHub
 
 ## Lenguajes de programacion
 
