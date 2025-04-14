@@ -24,3 +24,4 @@ __Esto de aqui arriba es un sencillo ejemplo de python__
 ### Mi actividad
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/andy-1647/miPrimerTrabajo)
 
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/andy-1647/miPrimerTrabajo/main)
