@@ -20,3 +20,6 @@ print(nombre)
 ```
 
 __Esto de aqui arriba es un sencillo ejemplo de python__
+
+### Via de contacto
+![Static Badge](https://img.shields.io/badge/andy-1647)
